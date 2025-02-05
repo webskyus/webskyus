@@ -1,4 +1,4 @@
-## Senior Frontend Developer at Attract Group | 8 years of experience | React, NextJS, RemixJS, TypeScript | AI | Blockchain 
+## Senior Frontend Developer at Attract Group | 8 years of experience | React, NextJS, RemixJS, TypeScript
 
 ⚡Senior Frontend Developer with 8 years of experience specializing in remote work under B2B contracts. Led end-to-end projects for startups and large enterprises, from initial estimation to final deployment. Skilled in team building, including hiring, conducting interviews, and implementing performance reviews. Proficient in designing scalable architectures, optimizing application performance, and modernizing legacy systems. Experienced in guiding cross-functional teams to deliver high-quality, user-focused applications efficiently.
 
