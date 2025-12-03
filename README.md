@@ -67,4 +67,9 @@
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/webskyus/" target="_blank">Orhan Abbasov</a> Email: webskyus@gmail.com</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/orhan-abbasov/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:webskyus@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email%20(Primary)-D14836?logo=gmail&logoColor=white"></a>
+  <a href="mailto:orhan.abbasov.work@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email%20(Work)-EA4335?logo=gmail&logoColor=white"></a>
+  <a href="https://webskyus.notion.site/Orhan-Abbasov-Senior-Front-End-Developer-4122d32d9b9f470b8dfe543331aef56d" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?logo=notion&logoColor=white"></a>
+</p>
